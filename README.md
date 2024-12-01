@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ms. Yoon Me Me</h1>
 <h3 align="center">Engineer</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YoonMeMe-engr](https://github.com/YoonMeMe-engr)
 
